@@ -9,7 +9,6 @@ INDEX VERSION 1.131+C:\Users\M1049006\Desktop\Microservice Kafka POC\.metadata\.
 2561419930.index
 685755407.index
 4130087853.index
-2806086660.index
 3785025306.index
 1283382141.index
 1763773242.index

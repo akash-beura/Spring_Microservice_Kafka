@@ -2,3 +2,4 @@
 1584950240797	Rename type 'ProductKafkaService'
 1584951262282	Rename method 'userConsumerFactory'
 1584969226346	Rename method 'productKafkaListenerContainerFactory'
+1584973903337	Rename type 'ProductKafkaServiceImpl'
