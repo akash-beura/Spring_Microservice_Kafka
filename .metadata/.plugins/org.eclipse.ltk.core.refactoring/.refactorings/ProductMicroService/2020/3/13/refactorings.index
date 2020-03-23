@@ -4,3 +4,4 @@
 1584969226346	Rename method 'productKafkaListenerContainerFactory'
 1584973903337	Rename type 'ProductKafkaServiceImpl'
 1584973993548	Rename type 'ProductKafkaController'
+1584974580149	Rename package 'com.mindtree.productservice'
