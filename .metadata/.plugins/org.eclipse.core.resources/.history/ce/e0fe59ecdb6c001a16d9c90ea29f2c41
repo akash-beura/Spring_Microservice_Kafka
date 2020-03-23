@@ -1,0 +1,8 @@
+package com.mindtree.productservice.service;
+
+import com.mindtree.productservice.entity.Product;
+
+public interface ProductKafkaService {
+	
+	
+}

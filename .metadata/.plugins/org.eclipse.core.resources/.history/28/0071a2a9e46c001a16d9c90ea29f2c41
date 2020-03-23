@@ -1,0 +1,5 @@
+package com.mindtree.buyoutservice.entity;
+
+public class Product {
+
+}

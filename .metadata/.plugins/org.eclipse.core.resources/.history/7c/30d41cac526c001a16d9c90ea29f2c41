@@ -1,0 +1,5 @@
+package com.mindtree.productdiscovery.service.impl;
+
+public class ProductServiceImpl {
+
+}

@@ -1,0 +1,13 @@
+package com.mindtree.productkafkaservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProductKafkaServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProductKafkaServiceApplication.class, args);
+	}
+
+}

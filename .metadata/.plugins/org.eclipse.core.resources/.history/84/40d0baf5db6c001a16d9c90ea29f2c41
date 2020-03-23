@@ -1,0 +1,11 @@
+package com.mindtree.productservice.service;
+
+import com.mindtree.productservice.entity.Product;
+
+public interface ProductService {
+	public void consumeProduct(Product product);
+	
+
+	
+	
+}

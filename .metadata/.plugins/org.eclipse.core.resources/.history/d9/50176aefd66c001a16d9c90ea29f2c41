@@ -1,0 +1,5 @@
+package com.mindtree.productkafkaservice.service;
+
+public interface ProductKafkaService {
+
+}

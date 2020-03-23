@@ -1,0 +1,31 @@
+package com.mindtree.productservice.service.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.stereotype.Service;
+
+import com.mindtree.productservice.entity.Product;
+import com.mindtree.productservice.service.ProductKafkaService;
+
+@Service
+public class ProductKafkaServiceImpl implements ProductKafkaService {
+	
+	private List<Product> products = new ArrayList<>();
+
+	@Autowired
+	private KafkaTemplate<String, Product> produtTemplate;
+
+	private static final String productTopic = "products";
+	
+	@Override
+	public Boolean publishProduct(Product product) {
+		produtTemplate.send(productTopic, product);
+		return true;
+	}
+	
+	
+
+}

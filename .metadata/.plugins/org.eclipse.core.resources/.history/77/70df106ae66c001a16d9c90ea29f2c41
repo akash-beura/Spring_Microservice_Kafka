@@ -1,0 +1,5 @@
+package com.mindtree.productdiscovery.service;
+
+public interface ProductService {
+
+}

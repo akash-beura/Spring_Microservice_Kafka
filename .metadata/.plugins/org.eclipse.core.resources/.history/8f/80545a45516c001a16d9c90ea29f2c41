@@ -1,0 +1,5 @@
+package com.mindtree.productdiscovery.entity;
+
+public class Product {
+
+}

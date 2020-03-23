@@ -1,0 +1,5 @@
+package com.mindtree.buyoutservice.service.feign;
+
+public interface ProductClientService {
+
+}

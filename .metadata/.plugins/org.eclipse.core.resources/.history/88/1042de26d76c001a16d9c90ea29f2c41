@@ -1,0 +1,20 @@
+package com.mindtree.productkafkaservice.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.kafka.core.KafkaTemplate;
+
+import com.mindtree.productkafkaservice.entity.Product;
+import com.mindtree.productkafkaservice.service.ProductKafkaService;
+
+public class ProductKafkaServiceImpl implements ProductKafkaService {
+
+	@Autowired
+	private KafkaTemplate<String, Product> producerTemplate;
+
+	@Override
+	public Boolean publishProduct(Product product) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

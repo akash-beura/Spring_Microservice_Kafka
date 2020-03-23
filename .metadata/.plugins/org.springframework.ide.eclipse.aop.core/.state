@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ProductDiscoveryService"/>
+<aop-project name="ProductAppAPIGateway"/>
+<aop-project name="ProductMicroService"/>
+<aop-project name="ProductKafkaService"/>
+<aop-project name="BuyoutMicroService"/>
+</aop-reference-model>

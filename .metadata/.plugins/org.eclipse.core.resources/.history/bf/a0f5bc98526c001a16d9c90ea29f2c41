@@ -1,0 +1,5 @@
+package com.mindtree.productdiscovery.controller;
+
+public class ProductController {
+
+}

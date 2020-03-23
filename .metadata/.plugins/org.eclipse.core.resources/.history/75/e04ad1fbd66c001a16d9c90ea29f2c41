@@ -1,0 +1,5 @@
+package com.mindtree.productkafkaservice.service.impl;
+
+public class ProductKafkaServiceImpl {
+
+}

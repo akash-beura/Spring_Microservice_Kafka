@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\Users\M1049006\Desktop\Microservice Kafka POC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3440119303.index
+3699252587.index
+25105917.index
+1553786052.index
+2427798289.index
+2806086660.index
+981660177.index
+3687855632.index
+3308387876.index
+3004944269.index

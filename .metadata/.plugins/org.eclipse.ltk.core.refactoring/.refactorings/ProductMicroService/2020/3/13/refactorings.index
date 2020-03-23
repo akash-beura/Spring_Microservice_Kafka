@@ -1,0 +1,4 @@
+1584949119525	Rename resource 'productkafkaservice'
+1584950240797	Rename type 'ProductKafkaService'
+1584951262282	Rename method 'userConsumerFactory'
+1584969226346	Rename method 'productKafkaListenerContainerFactory'

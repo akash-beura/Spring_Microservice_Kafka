@@ -1,0 +1,5 @@
+package com.mindtree.productkafkaservice.config;
+
+public class ProductKafkaConfig {
+
+}

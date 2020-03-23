@@ -1,0 +1,9 @@
+package com.mindtree.productservice.service;
+
+import com.mindtree.productkafkaservice.entity.Product;
+
+public interface ProductKafkaService {
+	
+	public Boolean publishProduct(Product product);
+	
+}

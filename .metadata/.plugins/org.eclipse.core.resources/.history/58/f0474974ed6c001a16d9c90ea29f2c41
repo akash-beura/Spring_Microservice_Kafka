@@ -1,0 +1,5 @@
+package com.mindtree.buyoutservice.controller;
+
+public class OrderController {
+
+}

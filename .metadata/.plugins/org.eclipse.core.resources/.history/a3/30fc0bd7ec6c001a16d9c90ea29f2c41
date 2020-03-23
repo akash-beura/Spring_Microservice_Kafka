@@ -1,0 +1,5 @@
+package com.mindtree.buyoutservice.service;
+
+public interface OrderService {
+
+}
